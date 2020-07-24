@@ -1,0 +1,8 @@
+name: "Nothing"
+description: "Literally does nothing"
+branding:
+    icon: "slash"
+    color: "gray-dark"
+runs:
+  using: "docker"
+  image: "Dockerfile"
